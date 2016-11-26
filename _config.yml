@@ -1,5 +1,0 @@
-deploy:
-type: git
-repo: https://github.com/liizii/liizii-website
-branch: master
-message: [message]
