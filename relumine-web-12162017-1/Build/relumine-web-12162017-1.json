@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "relumine-web-12162017-1.data.unityweb",
+"asmCodeUrl": "relumine-web-12162017-1.asm.code.unityweb",
+"asmMemoryUrl": "relumine-web-12162017-1.asm.memory.unityweb",
+"asmFrameworkUrl": "relumine-web-12162017-1.asm.framework.unityweb",
+"asmLibraryUrl": "relumine-web-12162017-1.asm.library.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
